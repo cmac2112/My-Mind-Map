@@ -1,0 +1,1 @@
+tags link, parented by [[Notes using Obsidian]]

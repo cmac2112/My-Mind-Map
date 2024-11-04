@@ -1,0 +1,1 @@
+full notes tag, parented by [[Notes using Obsidian]]

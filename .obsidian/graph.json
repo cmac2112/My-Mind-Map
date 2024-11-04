@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Source Material Link",
+      "color": {
+        "a": 1,
+        "rgb": 2883328
+      }
+    },
+    {
+      "query": "Bible",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "Old Testament",
+      "color": {
+        "a": 1,
+        "rgb": 1786550
+      }
+    },
+    {
+      "query": "Isaiah",
+      "color": {
+        "a": 1,
+        "rgb": 9803553
+      }
+    },
+    {
+      "query": "Software Development Club Notes",
+      "color": {
+        "a": 1,
+        "rgb": 12850984
+      }
+    },
+    {
+      "query": "Mcgraw",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "Graphical User Interface",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "c",
+      "color": {
+        "a": 1,
+        "rgb": 2376380
+      }
+    },
+    {
+      "query": "Python",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.28679833679834,
+  "lineSizeMultiplier": 1.10343035343035,
+  "collapse-forces": false,
+  "centerStrength": 0.425155925155925,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.09903330214167605,
+  "close": true
+}
