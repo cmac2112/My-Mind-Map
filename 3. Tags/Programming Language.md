@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[[Machine Language]], [[Python]], [[C(SHARP)]], [[JavaScript]], [[Typescript]], [[C]]
+Tags:[[Machine Language]], [[Python]], [[C(SHARP)]], [[JavaScript]], [[Typescript]], [[C]],
 
 # programming language
 
