@@ -1,8 +1,10 @@
 
 node link to link all source material in one master list
 
+Personal Project List: [[Personal Projects]]
+
 Source material list:
-Bible NJKV: [[Bible]]
+Bible NKJV: [[Bible]]
 So we and our children may live: [[So we and our children may live]]
 
 

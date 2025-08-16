@@ -123,6 +123,9 @@ the ++ operator increments by 1, the -- decrements. They can either be a prefix 
 
 # word counting plus line counting plus character counting
 
+```
+
+
 #include <stdio.h>
 
 #define IN 1
@@ -148,6 +151,8 @@ int main(){
     }
     printf("%d %d %d\n", nl, nw, nc);
 }
+```
+
 
 # 1.6 Arrays
 

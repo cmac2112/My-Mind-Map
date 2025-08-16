@@ -29,23 +29,30 @@
       }
     },
     {
-      "query": "Source Material Link",
+      "query": "C(sharp)",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 1772287
+      }
+    },
+    {
+      "query": "path:\"2. Source Material\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 92,
-  "scale": 0.4743747896783319,
+  "repelStrength": 20,
+  "linkStrength": 0.906938775510204,
+  "linkDistance": 316,
+  "scale": 0.12543086569654407,
   "close": false
 }

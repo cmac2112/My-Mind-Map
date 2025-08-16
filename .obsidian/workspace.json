@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3daf269a3aa936a",
+        "id": "1f3e7871653df274",
         "type": "tabs",
         "children": [
           {
-            "id": "9e10a9469614caf6",
+            "id": "ae5463cf18bb503f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Full Notes/operating systems.md",
+                "file": "2. Source Material/Source Material Link.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "operating systems"
+              "title": "Source Material Link"
+            }
+          },
+          {
+            "id": "702f443ccdc4c3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Full Notes/Personal Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Personal Projects"
+            }
+          },
+          {
+            "id": "191dd0e0ce621ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Full Notes/Personal Website.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Personal Website"
+            }
+          },
+          {
+            "id": "15a8ce72fc86dff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Full Notes/C Book Ch 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C Book Ch 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Full Notes/web dev book ch 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +187,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for web dev book ch 12"
+              "title": "Backlinks"
             }
           },
           {
@@ -139,7 +211,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -157,12 +231,12 @@
               "title": "Outline of web dev book ch 12"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,37 +246,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "9e10a9469614caf6",
+  "active": "191dd0e0ce621ce9",
   "lastOpenFiles": [
-    "6. Full Notes/Operating Systems Data Structures.md",
-    "6. Full Notes/operating systems.md",
-    "6. Full Notes/Virtualization.md",
-    "6. Full Notes/Schedulers.md",
-    "6. Full Notes/System Calls.md",
-    "6. Full Notes/CPU.md",
-    "6. Full Notes/JavaScript.md",
-    "6. Full Notes/Ims work notes.md",
-    "6. Full Notes/Concurrency.md",
-    "6. Full Notes/dictionairy code C.md",
-    "6. Full Notes/Object Oriented.md",
-    "6. Full Notes/C(SHARP).md",
+    "6. Full Notes/Personal Website.md",
+    "6. Full Notes/Personal Projects.md",
     "2. Source Material/Source Material Link.md",
-    "3. Tags/Source Material.md",
-    "3. Tags/Operating System.md",
-    "6. Full Notes/Work Notes Link.md",
-    "6. Full Notes/Memory.md",
-    "6. Full Notes/Stack.md",
-    "3. Tags/Functions.md",
-    "6. Full Notes/Heap.md",
-    "6. Full Notes/Persistence.md",
-    "3. Tags/C.md",
-    "6. Full Notes/Objects.md",
-    "3. Tags/Mcgraw hill CH1.md",
-    "6. Full Notes/CRUD.md",
-    "6. Full Notes/2025-08-10.md",
+    "2. Source Material/C Book.md",
+    "6. Full Notes/C Book Ch 1.md",
+    "6. Full Notes/React Website.md",
+    "6. Full Notes/React.md",
+    "3. Tags/LeetCode.md",
+    "3. Tags/NeetCode.io.md",
+    "4. Indexes/New Testament.md",
+    "6. Full Notes/Object Oriented.md",
+    "6. Full Notes/operating systems.md",
+    "6. Full Notes/Isaiah 10.md",
+    "7. Places In Bible/judah.md",
+    "6. Full Notes/putchar.md",
+    "6. Full Notes/JSON.md",
+    "3. Tags/Obsidian Hotkeys.md",
+    "3. Tags/Abraham.md",
+    "3. Tags/Arithmetic-logic Unit (ALU).md",
+    "6. Full Notes/2025-07-24.md",
+    "Untitled.canvas",
+    "6. Full Notes/[Web dev book.md",
+    "6. Full Notes/C(SHARP).md",
+    "6. Full Notes/Prototype.md",
+    "README.md",
+    "6. Full Notes/Operating Systems Data Structures.md",
+    "6. Full Notes/Virtualization.md",
     "Pasted image 20241103205235.png",
     "Pasted image 20241102140846.png",
     "Pasted image 20241102140812.png",
@@ -217,7 +294,6 @@
     "Isaiah chapters",
     "People in the Bible",
     "7. Places In Bible",
-    "Untitled.canvas",
     "6. Full Notes",
     "5. Templates",
     "4. Indexes",
