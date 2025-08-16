@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c93a97c4403e2788",
+            "id": "9e10a9469614caf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Full Notes/Work Notes Link.md",
+                "file": "6. Full Notes/operating systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,165 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Work Notes Link"
-            }
-          },
-          {
-            "id": "117b801f60833aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Tags/Source Material.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Source Material"
-            }
-          },
-          {
-            "id": "506694315e8e42bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Source Material/Source Material Link.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Source Material Link"
-            }
-          },
-          {
-            "id": "829e31a4aefd5d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Full Notes/C(SHARP).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C(SHARP)"
-            }
-          },
-          {
-            "id": "7223a2fa7b8c4791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Full Notes/Object Oriented.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Object Oriented"
-            }
-          },
-          {
-            "id": "3bcee5bda2cf8409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Full Notes/Inheritance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inheritance"
-            }
-          },
-          {
-            "id": "9c02a0920194111f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "167eab76671bacc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Full Notes/Objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Objects"
+              "title": "operating systems"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,34 +175,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a252ddf2d044078b",
+  "active": "9e10a9469614caf6",
   "lastOpenFiles": [
-    "6. Full Notes/2025-08-10.md",
-    "6. Full Notes/Arrays.md",
-    "3. Tags/NeetCode.io.md",
-    "6. Full Notes/Inheritance.md",
+    "6. Full Notes/Operating Systems Data Structures.md",
+    "6. Full Notes/operating systems.md",
+    "6. Full Notes/Virtualization.md",
+    "6. Full Notes/Schedulers.md",
+    "6. Full Notes/System Calls.md",
+    "6. Full Notes/CPU.md",
     "6. Full Notes/JavaScript.md",
-    "3. Tags/Project.md",
-    "6. Full Notes/Software Development Club Notes.md",
-    "6. Full Notes/Classes.md",
-    "6. Full Notes/Objects.md",
-    "2. Source Material/Notes for starting up.md",
+    "6. Full Notes/Ims work notes.md",
+    "6. Full Notes/Concurrency.md",
+    "6. Full Notes/dictionairy code C.md",
     "6. Full Notes/Object Oriented.md",
-    "3. Tags/C.md",
     "6. Full Notes/C(SHARP).md",
-    "6. Full Notes/O'Reiley c(sharp) 5.0 pocket reference.md",
     "2. Source Material/Source Material Link.md",
     "3. Tags/Source Material.md",
-    "3. Tags/Source control.md",
-    "3. Tags/Programming Language.md",
-    "6. Full Notes/2025-07-24.md",
-    "6. Full Notes/CPU.md",
-    "3. Tags/Machine Language.md",
-    "3. Tags/LeetCode.md",
-    "3. Tags/Set.md",
+    "3. Tags/Operating System.md",
     "6. Full Notes/Work Notes Link.md",
-    "6. Full Notes/C Book Ch 1.md",
-    "6. Full Notes/My LeetCode.md",
+    "6. Full Notes/Memory.md",
+    "6. Full Notes/Stack.md",
+    "3. Tags/Functions.md",
+    "6. Full Notes/Heap.md",
+    "6. Full Notes/Persistence.md",
+    "3. Tags/C.md",
+    "6. Full Notes/Objects.md",
+    "3. Tags/Mcgraw hill CH1.md",
+    "6. Full Notes/CRUD.md",
+    "6. Full Notes/2025-08-10.md",
     "Pasted image 20241103205235.png",
     "Pasted image 20241102140846.png",
     "Pasted image 20241102140812.png",

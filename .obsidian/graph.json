@@ -5,82 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "Source Material Link",
-      "color": {
-        "a": 1,
-        "rgb": 2883328
-      }
-    },
-    {
-      "query": "Bible",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
     {
       "query": "Old Testament",
       "color": {
         "a": 1,
-        "rgb": 1786550
+        "rgb": 14701138
       }
     },
     {
-      "query": "Isaiah",
+      "query": "Operating Systems",
       "color": {
         "a": 1,
-        "rgb": 9803553
+        "rgb": 14725458
       }
     },
     {
-      "query": "Software Development Club Notes",
+      "query": "Programming Language",
       "color": {
         "a": 1,
-        "rgb": 12850984
+        "rgb": 11657298
       }
     },
     {
-      "query": "Mcgraw",
+      "query": "Source Material Link",
       "color": {
         "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "Graphical User Interface",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "c",
-      "color": {
-        "a": 1,
-        "rgb": 2376380
-      }
-    },
-    {
-      "query": "Python",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.80923172242875,
-  "lineSizeMultiplier": 1.19100484397882,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.575926551762983,
-  "repelStrength": 17.8630167849499,
-  "linkStrength": 0.694885659569674,
-  "linkDistance": 500,
-  "scale": 0.14087082181490246,
-  "close": true
+  "centerStrength": 0,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 92,
+  "scale": 0.4743747896783319,
+  "close": false
 }
